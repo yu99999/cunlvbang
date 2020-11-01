@@ -1,0 +1,1 @@
+export const changeHomeList = "change_home_list";
